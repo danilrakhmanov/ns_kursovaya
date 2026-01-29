@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-01-29T15:51:04.648915",
+  "n_samples": 1000,
+  "epochs": 50,
+  "batch_size": 32,
+  "train_size": 699,
+  "val_size": 100,
+  "test_size": 201,
+  "metrics": {
+    "loss": 0.020260335877537727,
+    "accuracy": 0.9950248599052429,
+    "precision": 1.0,
+    "recall": 0.991525411605835,
+    "f1_score": 0.9957446247387854
+  }
+}
